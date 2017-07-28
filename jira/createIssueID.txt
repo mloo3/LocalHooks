@@ -1,0 +1,13 @@
+{
+    "fields": {
+        "project":
+        {
+            "id": "10000"
+        },
+        "summary": "No REST for the Wicked",
+        "description": "Creating of an issue using ids for pojects and issue types using the REST API\n curl -u admin:naruto -X POST --data @createIssueID.txt -H \"Content-Type: application/json\" http://localhost:3080/rest/api/2/issue/",
+        "issuetype": {
+            "id": "10103"
+        }
+    }
+}

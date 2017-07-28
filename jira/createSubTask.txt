@@ -1,0 +1,19 @@
+{
+    "fields":
+    {
+        "project":
+        {
+            "key": "SUB"
+        },
+        "parent":
+        {
+            "key": "SUB-8"
+        },
+        "summary": "Sub-task of SUB-8",
+        "description": "Don't forget to do this too.",
+        "issuetype":
+        {
+            "id": "10102"
+        }
+    }
+}
